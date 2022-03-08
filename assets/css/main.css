@@ -1576,7 +1576,6 @@ input, select, textarea {
 			}
 
 		#myImg {
-		  border-radius: 5px;
 		  cursor: pointer;
 		  transition: 0.3s;
 		}
@@ -1585,6 +1584,7 @@ input, select, textarea {
 		  opacity: 0.7;
 		}
 
+/* Modal */
 		.modal {
 		  display: none;
 		  /* Hidden by default */
